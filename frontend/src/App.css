@@ -1,0 +1,28 @@
+/* Center the container horizontally and align it towards the top */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+  justify-content: flex-start; /* Align items at the top */
+  min-height: 100vh;
+  text-align: center;
+  padding: 20px;
+  padding-top: 10vh; /* Add some padding from the top */
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.input {
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  width: 300px;
+  text-align: center;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+}

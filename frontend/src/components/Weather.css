@@ -1,0 +1,11 @@
+.weatherContainer {
+  margin-top: 20px;
+}
+
+.weatherHeader {
+  margin-bottom: 10px;
+}
+
+.weatherDetail {
+  font-size: 18px;
+}
